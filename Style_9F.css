@@ -1,0 +1,22 @@
+#Container{
+	height: 900px;
+	width: 900px;	
+}
+
+#Titel{
+
+	width: 800px;
+	font-family: sans-serif;
+
+}
+
+#Regeln{
+	position: Absolute;
+	top: 100px;
+	left: 400px;
+	padding: 4px;
+}
+#body{
+	background-color: firebrick;
+}
+
