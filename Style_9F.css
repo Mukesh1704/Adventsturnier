@@ -1,6 +1,9 @@
 #Container{
-	height: 900px;
-	width: 900px;	
+	height: 820px;
+	width: 900px;
+	font-size: 15px;
+
+
 }
 
 #Titel{
@@ -10,7 +13,11 @@
 
 }
 
-#body{
-	background-color: firebrick;
+
+#Regeln{
+	font-size: 15px;
 }
 
+#PKVT{
+	font-size: 15px;
+}
