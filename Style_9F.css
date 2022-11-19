@@ -10,12 +10,6 @@
 
 }
 
-#Regeln{
-	position: Absolute;
-	top: 100px;
-	left: 400px;
-	padding: 4px;
-}
 #body{
 	background-color: firebrick;
 }
