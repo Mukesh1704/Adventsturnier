@@ -1,7 +1,8 @@
 #Container{
 	height: 600px;
-	width: 900px;
+	width: 320px;
 	font-size: 10px;
+
 
 
 }
@@ -15,9 +16,17 @@
 
 
 #Regeln{
-	font-size: 10px;
+	font-size: 15px;
 }
 
 #PKVT{
-	font-size: 10px;
+	font-size: 15px;
 }
+th,td{
+	padding: 2px;
+}
+
+table{
+	width: 320px;
+}
+
